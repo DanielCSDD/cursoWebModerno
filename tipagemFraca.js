@@ -8,3 +8,12 @@ console.log(qualquer)
 
 // Imprimindo o tipo de dados que a variável possuí.
 console.log(typeof qualquer)
+
+// Atribuindo um novo valor a variável: qualquer.
+qualquer = 3.1516
+
+// Imprimindo o conteúdo da variável: qualquer.
+console.log(qualquer)
+
+// Imprimindo o tipo de dados que a variável possuí.
+console.log(typeof qualquer)
